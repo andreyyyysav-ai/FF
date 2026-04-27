@@ -16,8 +16,8 @@ except ImportError as e:
     print("Установите зависимости: pip install telethon aiohttp apscheduler")
     sys.exit(1)
 
-API_ID = 25212512
-API_HASH = "c4aa57edd7a5b8b76d2e26abe8ab38c7"
+API_ID = 33328241
+API_HASH = "71b285e3b1fbaa3a2f84231dc61d23fa"
 BOT_TOKEN = "8741722045:AAH9RURmSjys4ymsMlzbNjebsLPn9WlTZ2M"
 GROQ_API_KEY = "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"
 GROQ_MODEL = "llama-3.3-70b-versatile"
